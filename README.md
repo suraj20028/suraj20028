@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 I'm MD Suraj Kumar, an enthusiastic individual who loves coding and continually expanding my knowledge in the world of technology. With a keen interest in keeping up with the latest tech stack, I strive to stay ahead of the curve and explore various programming languages and frameworks.
 
-#Tech Interests
-[![My Skills](https://skillicons.dev/icons?i=python,javascript,html,css,bootstrap,java,kotlin,dart,mongodb,mysql,django,nodejs,figma&theme=dark)](https://skillicons.dev)
+### Tech Interests
+[![My Skills](https://skillicons.dev/icons?i=python,javascript,html,css,bootstrap,java,c,cpp,firebase,kotlin,dart,mongodb,mysql,django,nodejs,figma&theme=dark)](https://skillicons.dev)
