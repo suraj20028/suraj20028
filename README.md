@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+"Passionate about coding, learning new skills, and embracing the latest tech stack."
+
+I'm MD Suraj Kumar, an enthusiastic individual who loves coding and continually expanding my knowledge in the world of technology. With a keen interest in keeping up with the latest tech stack, I strive to stay ahead of the curve and explore various programming languages and frameworks.
